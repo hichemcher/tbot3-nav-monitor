@@ -1,0 +1,302 @@
+[0.000000] (-) TimerEvent: {}
+[0.000141] (tbot3_nav_monitor) JobQueued: {'identifier': 'tbot3_nav_monitor', 'dependencies': OrderedDict()}
+[0.000191] (tbot3_nav_monitor) JobStarted: {'identifier': 'tbot3_nav_monitor'}
+[0.099337] (-) TimerEvent: {}
+[0.200084] (-) TimerEvent: {}
+[0.300825] (-) TimerEvent: {}
+[0.401489] (-) TimerEvent: {}
+[0.502063] (-) TimerEvent: {}
+[0.602332] (-) TimerEvent: {}
+[0.702702] (-) TimerEvent: {}
+[0.803185] (-) TimerEvent: {}
+[0.903629] (-) TimerEvent: {}
+[1.004149] (-) TimerEvent: {}
+[1.104471] (-) TimerEvent: {}
+[1.204864] (-) TimerEvent: {}
+[1.305236] (-) TimerEvent: {}
+[1.405812] (-) TimerEvent: {}
+[1.506087] (-) TimerEvent: {}
+[1.606558] (-) TimerEvent: {}
+[1.706925] (-) TimerEvent: {}
+[1.807705] (-) TimerEvent: {}
+[1.908658] (-) TimerEvent: {}
+[2.009370] (-) TimerEvent: {}
+[2.110170] (-) TimerEvent: {}
+[2.210934] (-) TimerEvent: {}
+[2.311632] (-) TimerEvent: {}
+[2.412213] (-) TimerEvent: {}
+[2.512672] (-) TimerEvent: {}
+[2.613148] (-) TimerEvent: {}
+[2.713881] (-) TimerEvent: {}
+[2.814522] (-) TimerEvent: {}
+[2.915208] (-) TimerEvent: {}
+[3.015868] (-) TimerEvent: {}
+[3.116651] (-) TimerEvent: {}
+[3.217270] (-) TimerEvent: {}
+[3.317823] (-) TimerEvent: {}
+[3.418315] (-) TimerEvent: {}
+[3.518851] (-) TimerEvent: {}
+[3.619619] (-) TimerEvent: {}
+[3.720307] (-) TimerEvent: {}
+[3.821032] (-) TimerEvent: {}
+[3.921784] (-) TimerEvent: {}
+[4.022478] (-) TimerEvent: {}
+[4.123335] (-) TimerEvent: {}
+[4.224073] (-) TimerEvent: {}
+[4.324785] (-) TimerEvent: {}
+[4.425428] (-) TimerEvent: {}
+[4.526275] (-) TimerEvent: {}
+[4.627007] (-) TimerEvent: {}
+[4.727605] (-) TimerEvent: {}
+[4.828356] (-) TimerEvent: {}
+[4.929004] (-) TimerEvent: {}
+[5.029680] (-) TimerEvent: {}
+[5.130365] (-) TimerEvent: {}
+[5.231066] (-) TimerEvent: {}
+[5.331825] (-) TimerEvent: {}
+[5.432478] (-) TimerEvent: {}
+[5.533134] (-) TimerEvent: {}
+[5.633836] (-) TimerEvent: {}
+[5.734677] (-) TimerEvent: {}
+[5.835576] (-) TimerEvent: {}
+[5.936263] (-) TimerEvent: {}
+[6.037095] (-) TimerEvent: {}
+[6.138274] (-) TimerEvent: {}
+[6.238886] (-) TimerEvent: {}
+[6.339166] (-) TimerEvent: {}
+[6.439726] (-) TimerEvent: {}
+[6.540255] (-) TimerEvent: {}
+[6.640626] (-) TimerEvent: {}
+[6.741042] (-) TimerEvent: {}
+[6.841882] (-) TimerEvent: {}
+[6.942258] (-) TimerEvent: {}
+[7.042719] (-) TimerEvent: {}
+[7.143369] (-) TimerEvent: {}
+[7.244202] (-) TimerEvent: {}
+[7.344972] (-) TimerEvent: {}
+[7.445675] (-) TimerEvent: {}
+[7.546424] (-) TimerEvent: {}
+[7.647102] (-) TimerEvent: {}
+[7.747773] (-) TimerEvent: {}
+[7.848181] (-) TimerEvent: {}
+[7.948578] (-) TimerEvent: {}
+[8.049010] (-) TimerEvent: {}
+[8.149342] (-) TimerEvent: {}
+[8.249734] (-) TimerEvent: {}
+[8.350466] (-) TimerEvent: {}
+[8.451273] (-) TimerEvent: {}
+[8.552165] (-) TimerEvent: {}
+[8.652877] (-) TimerEvent: {}
+[8.753554] (-) TimerEvent: {}
+[8.854237] (-) TimerEvent: {}
+[8.954922] (-) TimerEvent: {}
+[9.055637] (-) TimerEvent: {}
+[9.156416] (-) TimerEvent: {}
+[9.257100] (-) TimerEvent: {}
+[9.357955] (-) TimerEvent: {}
+[9.458610] (-) TimerEvent: {}
+[9.559265] (-) TimerEvent: {}
+[9.659987] (-) TimerEvent: {}
+[9.760568] (-) TimerEvent: {}
+[9.860997] (-) TimerEvent: {}
+[9.961859] (-) TimerEvent: {}
+[10.062500] (-) TimerEvent: {}
+[10.163122] (-) TimerEvent: {}
+[10.263865] (-) TimerEvent: {}
+[10.364620] (-) TimerEvent: {}
+[10.465350] (-) TimerEvent: {}
+[10.566053] (-) TimerEvent: {}
+[10.666688] (-) TimerEvent: {}
+[10.767065] (-) TimerEvent: {}
+[10.867774] (-) TimerEvent: {}
+[10.968627] (-) TimerEvent: {}
+[11.069345] (-) TimerEvent: {}
+[11.169958] (-) TimerEvent: {}
+[11.270572] (-) TimerEvent: {}
+[11.370888] (-) TimerEvent: {}
+[11.471334] (-) TimerEvent: {}
+[11.572052] (-) TimerEvent: {}
+[11.672907] (-) TimerEvent: {}
+[11.773733] (-) TimerEvent: {}
+[11.874453] (-) TimerEvent: {}
+[11.975189] (-) TimerEvent: {}
+[12.076048] (-) TimerEvent: {}
+[12.176848] (-) TimerEvent: {}
+[12.277611] (-) TimerEvent: {}
+[12.378346] (-) TimerEvent: {}
+[12.479032] (-) TimerEvent: {}
+[12.579739] (-) TimerEvent: {}
+[12.680477] (-) TimerEvent: {}
+[12.781193] (-) TimerEvent: {}
+[12.881984] (-) TimerEvent: {}
+[12.982775] (-) TimerEvent: {}
+[13.083649] (-) TimerEvent: {}
+[13.184414] (-) TimerEvent: {}
+[13.285447] (-) TimerEvent: {}
+[13.386180] (-) TimerEvent: {}
+[13.487075] (-) TimerEvent: {}
+[13.587812] (-) TimerEvent: {}
+[13.688496] (-) TimerEvent: {}
+[13.789385] (-) TimerEvent: {}
+[13.890107] (-) TimerEvent: {}
+[13.990893] (-) TimerEvent: {}
+[14.091549] (-) TimerEvent: {}
+[14.192249] (-) TimerEvent: {}
+[14.293129] (-) TimerEvent: {}
+[14.394023] (-) TimerEvent: {}
+[14.494833] (-) TimerEvent: {}
+[14.595552] (-) TimerEvent: {}
+[14.696257] (-) TimerEvent: {}
+[14.797127] (-) TimerEvent: {}
+[14.897953] (-) TimerEvent: {}
+[14.998720] (-) TimerEvent: {}
+[15.099456] (-) TimerEvent: {}
+[15.200150] (-) TimerEvent: {}
+[15.300909] (-) TimerEvent: {}
+[15.401704] (-) TimerEvent: {}
+[15.502466] (-) TimerEvent: {}
+[15.603194] (-) TimerEvent: {}
+[15.704079] (-) TimerEvent: {}
+[15.804789] (-) TimerEvent: {}
+[15.905487] (-) TimerEvent: {}
+[16.006225] (-) TimerEvent: {}
+[16.107029] (-) TimerEvent: {}
+[16.207690] (-) TimerEvent: {}
+[16.308413] (-) TimerEvent: {}
+[16.409139] (-) TimerEvent: {}
+[16.509874] (-) TimerEvent: {}
+[16.610654] (-) TimerEvent: {}
+[16.711527] (-) TimerEvent: {}
+[16.812232] (-) TimerEvent: {}
+[16.913087] (-) TimerEvent: {}
+[17.013846] (-) TimerEvent: {}
+[17.114501] (-) TimerEvent: {}
+[17.215175] (-) TimerEvent: {}
+[17.315801] (-) TimerEvent: {}
+[17.416390] (-) TimerEvent: {}
+[17.517248] (-) TimerEvent: {}
+[17.618037] (-) TimerEvent: {}
+[17.718910] (-) TimerEvent: {}
+[17.819643] (-) TimerEvent: {}
+[17.920481] (-) TimerEvent: {}
+[18.021354] (-) TimerEvent: {}
+[18.122213] (-) TimerEvent: {}
+[18.222957] (-) TimerEvent: {}
+[18.323505] (-) TimerEvent: {}
+[18.424212] (-) TimerEvent: {}
+[18.524966] (-) TimerEvent: {}
+[18.625690] (-) TimerEvent: {}
+[18.726455] (-) TimerEvent: {}
+[18.827172] (-) TimerEvent: {}
+[18.927909] (-) TimerEvent: {}
+[19.028670] (-) TimerEvent: {}
+[19.129521] (-) TimerEvent: {}
+[19.230223] (-) TimerEvent: {}
+[19.330946] (-) TimerEvent: {}
+[19.431802] (-) TimerEvent: {}
+[19.532689] (-) TimerEvent: {}
+[19.633025] (-) TimerEvent: {}
+[19.733348] (-) TimerEvent: {}
+[19.833703] (-) TimerEvent: {}
+[19.934135] (-) TimerEvent: {}
+[20.034817] (-) TimerEvent: {}
+[20.135501] (-) TimerEvent: {}
+[20.236200] (-) TimerEvent: {}
+[20.336896] (-) TimerEvent: {}
+[20.437467] (-) TimerEvent: {}
+[20.537828] (-) TimerEvent: {}
+[20.638309] (-) TimerEvent: {}
+[20.738834] (-) TimerEvent: {}
+[20.839390] (-) TimerEvent: {}
+[20.939729] (-) TimerEvent: {}
+[21.039952] (-) TimerEvent: {}
+[21.140211] (-) TimerEvent: {}
+[21.240549] (-) TimerEvent: {}
+[21.341162] (-) TimerEvent: {}
+[21.442042] (-) TimerEvent: {}
+[21.542738] (-) TimerEvent: {}
+[21.643129] (-) TimerEvent: {}
+[21.743757] (-) TimerEvent: {}
+[21.844183] (-) TimerEvent: {}
+[21.944870] (-) TimerEvent: {}
+[22.045343] (-) TimerEvent: {}
+[22.145781] (-) TimerEvent: {}
+[22.246494] (-) TimerEvent: {}
+[22.347201] (-) TimerEvent: {}
+[22.447761] (-) TimerEvent: {}
+[22.548065] (-) TimerEvent: {}
+[22.648586] (-) TimerEvent: {}
+[22.749025] (-) TimerEvent: {}
+[22.853153] (-) TimerEvent: {}
+[22.953577] (-) TimerEvent: {}
+[23.054258] (-) TimerEvent: {}
+[23.154958] (-) TimerEvent: {}
+[23.255531] (-) TimerEvent: {}
+[23.355998] (-) TimerEvent: {}
+[23.456439] (-) TimerEvent: {}
+[23.556884] (-) TimerEvent: {}
+[23.657353] (-) TimerEvent: {}
+[23.757807] (-) TimerEvent: {}
+[23.858467] (-) TimerEvent: {}
+[23.959062] (-) TimerEvent: {}
+[24.059740] (-) TimerEvent: {}
+[24.160394] (-) TimerEvent: {}
+[24.261058] (-) TimerEvent: {}
+[24.361780] (-) TimerEvent: {}
+[24.462384] (-) TimerEvent: {}
+[24.500708] (tbot3_nav_monitor) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/tbot3_nav_monitor', 'build', '--build-base', '/home/cheriet/tbot3_ws/build/tbot3_nav_monitor/build', 'install', '--record', '/home/cheriet/tbot3_ws/build/tbot3_nav_monitor/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/cheriet/tbot3_ws/src/tbot3_nav_monitor', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'GZ_SIM_RESOURCE_PATH': '/opt/ros/jazzy/share', 'USER': 'cheriet', 'GZ_CONFIG_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/share/gz:/opt/ros/jazzy/opt/sdformat_vendor/share/gz:/opt/ros/jazzy/opt/gz_gui_vendor/share/gz:/opt/ros/jazzy/opt/gz_transport_vendor/share/gz:/opt/ros/jazzy/opt/gz_rendering_vendor/share/gz:/opt/ros/jazzy/opt/gz_plugin_vendor/share/gz:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/share/gz:/opt/ros/jazzy/opt/gz_msgs_vendor/share/gz:/opt/ros/jazzy/opt/gz_common_vendor/share/gz', 'XDG_SESSION_TYPE': 'wayland', 'CLUTTER_DISABLE_MIPMAPPED_TEXT': '1', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'HOME': '/home/cheriet', 'OLDPWD': '/home/cheriet/tbot3_ws/src/tbot3_nav_monitor/tbot3_nav_monitor', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'SYSTEMD_EXEC_PID': '2802', 'GSM_SKIP_SSH_AGENT_WORKAROUND': 'true', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'DEBUGINFOD_URLS': 'https://debuginfod.ubuntu.com', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/cheriet/ros2_ws/install', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'cheriet', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'MEMORY_PRESSURE_WATCH': '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.Shell@wayland.service/memory.pressure', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'cheriet', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'PATH': '/opt/ros/jazzy/opt/gz_msgs_vendor/bin:/opt/ros/jazzy/opt/gz_tools_vendor/bin:/opt/ros/jazzy/opt/gz_ogre_next_vendor/bin:/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/cheriet-X510UAR:@/tmp/.ICE-unix/2750,unix/cheriet-X510UAR:/tmp/.ICE-unix/2750', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/cc41fb7f_edf2_4283_a67c_d59718472a0c', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.BDOVN3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'GNOME_TERMINAL_SERVICE': ':1.114', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/cheriet/ros2_ws/install/tbot3_nav_monitor:/home/cheriet/ros2_ws/install/my_first_robot:/home/cheriet/ros2_ws/install/my_first_pkg:/opt/ros/jazzy', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/cheriet/tbot3_ws/build/tbot3_nav_monitor', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/cheriet/tbot3_ws/build/tbot3_nav_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cheriet/tbot3_ws/install/tbot3_nav_monitor/lib/python3.12/site-packages:/home/cheriet/ros2_ws/install/tbot3_nav_monitor/lib/python3.12/site-packages:/home/cheriet/ros2_ws/install/my_first_robot/lib/python3.12/site-packages:/home/cheriet/ros2_ws/install/my_first_pkg/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'MEMORY_PRESSURE_WRITE': 'c29tZSAyMDAwMDAgMjAwMDAwMAA=', 'VTE_VERSION': '7600', 'CMAKE_PREFIX_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor'}, 'shell': False}
+[24.562588] (-) TimerEvent: {}
+[24.663170] (-) TimerEvent: {}
+[24.763491] (-) TimerEvent: {}
+[24.863774] (-) TimerEvent: {}
+[24.964038] (-) TimerEvent: {}
+[25.042142] (tbot3_nav_monitor) StdoutLine: {'line': b'running egg_info\n'}
+[25.042539] (tbot3_nav_monitor) StdoutLine: {'line': b'creating ../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info\n'}
+[25.064163] (-) TimerEvent: {}
+[25.071680] (tbot3_nav_monitor) StdoutLine: {'line': b'writing ../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/PKG-INFO\n'}
+[25.072047] (tbot3_nav_monitor) StdoutLine: {'line': b'writing dependency_links to ../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/dependency_links.txt\n'}
+[25.072219] (tbot3_nav_monitor) StdoutLine: {'line': b'writing entry points to ../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/entry_points.txt\n'}
+[25.072515] (tbot3_nav_monitor) StdoutLine: {'line': b'writing requirements to ../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/requires.txt\n'}
+[25.072754] (tbot3_nav_monitor) StdoutLine: {'line': b'writing top-level names to ../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/top_level.txt\n'}
+[25.072861] (tbot3_nav_monitor) StdoutLine: {'line': b"writing manifest file '../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/SOURCES.txt'\n"}
+[25.133043] (tbot3_nav_monitor) StdoutLine: {'line': b"reading manifest file '../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/SOURCES.txt'\n"}
+[25.134101] (tbot3_nav_monitor) StdoutLine: {'line': b"writing manifest file '../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/SOURCES.txt'\n"}
+[25.134702] (tbot3_nav_monitor) StdoutLine: {'line': b'running build\n'}
+[25.134974] (tbot3_nav_monitor) StdoutLine: {'line': b'running build_py\n'}
+[25.135165] (tbot3_nav_monitor) StdoutLine: {'line': b'creating /home/cheriet/tbot3_ws/build/tbot3_nav_monitor/build\n'}
+[25.135389] (tbot3_nav_monitor) StdoutLine: {'line': b'creating /home/cheriet/tbot3_ws/build/tbot3_nav_monitor/build/lib\n'}
+[25.135645] (tbot3_nav_monitor) StdoutLine: {'line': b'creating /home/cheriet/tbot3_ws/build/tbot3_nav_monitor/build/lib/tbot3_nav_monitor\n'}
+[25.135962] (tbot3_nav_monitor) StdoutLine: {'line': b'copying tbot3_nav_monitor/monitor_node.py -> /home/cheriet/tbot3_ws/build/tbot3_nav_monitor/build/lib/tbot3_nav_monitor\n'}
+[25.136072] (tbot3_nav_monitor) StdoutLine: {'line': b'copying tbot3_nav_monitor/__init__.py -> /home/cheriet/tbot3_ws/build/tbot3_nav_monitor/build/lib/tbot3_nav_monitor\n'}
+[25.136159] (tbot3_nav_monitor) StdoutLine: {'line': b'running install\n'}
+[25.144331] (tbot3_nav_monitor) StdoutLine: {'line': b'running install_lib\n'}
+[25.164300] (-) TimerEvent: {}
+[25.174175] (tbot3_nav_monitor) StdoutLine: {'line': b'creating /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/lib/python3.12/site-packages/tbot3_nav_monitor\n'}
+[25.174386] (tbot3_nav_monitor) StdoutLine: {'line': b'copying /home/cheriet/tbot3_ws/build/tbot3_nav_monitor/build/lib/tbot3_nav_monitor/monitor_node.py -> /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/lib/python3.12/site-packages/tbot3_nav_monitor\n'}
+[25.174601] (tbot3_nav_monitor) StdoutLine: {'line': b'copying /home/cheriet/tbot3_ws/build/tbot3_nav_monitor/build/lib/tbot3_nav_monitor/__init__.py -> /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/lib/python3.12/site-packages/tbot3_nav_monitor\n'}
+[25.175018] (tbot3_nav_monitor) StdoutLine: {'line': b'byte-compiling /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/lib/python3.12/site-packages/tbot3_nav_monitor/monitor_node.py to monitor_node.cpython-312.pyc\n'}
+[25.175800] (tbot3_nav_monitor) StdoutLine: {'line': b'byte-compiling /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/lib/python3.12/site-packages/tbot3_nav_monitor/__init__.py to __init__.cpython-312.pyc\n'}
+[25.176024] (tbot3_nav_monitor) StdoutLine: {'line': b'running install_data\n'}
+[25.176192] (tbot3_nav_monitor) StdoutLine: {'line': b'creating /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/share/ament_index\n'}
+[25.176347] (tbot3_nav_monitor) StdoutLine: {'line': b'creating /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/share/ament_index/resource_index\n'}
+[25.176514] (tbot3_nav_monitor) StdoutLine: {'line': b'creating /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/share/ament_index/resource_index/packages\n'}
+[25.176612] (tbot3_nav_monitor) StdoutLine: {'line': b'copying resource/tbot3_nav_monitor -> /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/share/ament_index/resource_index/packages\n'}
+[25.176701] (tbot3_nav_monitor) StdoutLine: {'line': b'copying package.xml -> /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/share/tbot3_nav_monitor\n'}
+[25.176870] (tbot3_nav_monitor) StdoutLine: {'line': b'running install_egg_info\n'}
+[25.208367] (tbot3_nav_monitor) StdoutLine: {'line': b'Copying ../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info to /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/lib/python3.12/site-packages/tbot3_nav_monitor-0.0.0-py3.12.egg-info\n'}
+[25.209420] (tbot3_nav_monitor) StdoutLine: {'line': b'running install_scripts\n'}
+[25.264368] (-) TimerEvent: {}
+[25.364624] (-) TimerEvent: {}
+[25.399926] (tbot3_nav_monitor) StdoutLine: {'line': b'Installing monitor script to /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/lib/tbot3_nav_monitor\n'}
+[25.400312] (tbot3_nav_monitor) StdoutLine: {'line': b"writing list of installed files to '/home/cheriet/tbot3_ws/build/tbot3_nav_monitor/install.log'\n"}
+[25.437458] (tbot3_nav_monitor) CommandEnded: {'returncode': 0}
+[25.464813] (-) TimerEvent: {}
+[25.565546] (-) TimerEvent: {}
+[25.666227] (-) TimerEvent: {}
+[25.766933] (-) TimerEvent: {}
+[25.867627] (-) TimerEvent: {}
+[25.968310] (-) TimerEvent: {}
+[26.068995] (-) TimerEvent: {}
+[26.169869] (-) TimerEvent: {}
+[26.186373] (tbot3_nav_monitor) JobEnded: {'identifier': 'tbot3_nav_monitor', 'rc': 0}
+[26.188012] (-) EventReactorShutdown: {}

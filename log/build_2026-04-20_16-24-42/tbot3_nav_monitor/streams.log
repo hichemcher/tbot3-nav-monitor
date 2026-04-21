@@ -1,0 +1,21 @@
+[1.373s] Invoking command in '/home/cheriet/tbot3_ws/src/tbot3_nav_monitor': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/cheriet/tbot3_ws/build/tbot3_nav_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cheriet/tbot3_ws/install/tbot3_nav_monitor/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tbot3_nav_monitor build --build-base /home/cheriet/tbot3_ws/build/tbot3_nav_monitor/build install --record /home/cheriet/tbot3_ws/build/tbot3_nav_monitor/install.log --single-version-externally-managed install_data
+[1.884s] running egg_info
+[1.920s] writing ../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/PKG-INFO
+[1.920s] writing dependency_links to ../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/dependency_links.txt
+[1.921s] writing entry points to ../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/entry_points.txt
+[1.921s] writing requirements to ../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/requires.txt
+[1.921s] writing top-level names to ../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/top_level.txt
+[1.994s] reading manifest file '../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/SOURCES.txt'
+[1.995s] writing manifest file '../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info/SOURCES.txt'
+[1.996s] running build
+[1.996s] running build_py
+[1.996s] running install
+[2.006s] running install_lib
+[2.044s] running install_data
+[2.044s] running install_egg_info
+[2.082s] removing '/home/cheriet/tbot3_ws/install/tbot3_nav_monitor/lib/python3.12/site-packages/tbot3_nav_monitor-0.0.0-py3.12.egg-info' (and everything under it)
+[2.082s] Copying ../../build/tbot3_nav_monitor/tbot3_nav_monitor.egg-info to /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/lib/python3.12/site-packages/tbot3_nav_monitor-0.0.0-py3.12.egg-info
+[2.083s] running install_scripts
+[2.323s] Installing monitor_node script to /home/cheriet/tbot3_ws/install/tbot3_nav_monitor/lib/tbot3_nav_monitor
+[2.324s] writing list of installed files to '/home/cheriet/tbot3_ws/build/tbot3_nav_monitor/install.log'
+[2.371s] Invoked command in '/home/cheriet/tbot3_ws/src/tbot3_nav_monitor' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/cheriet/tbot3_ws/build/tbot3_nav_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cheriet/tbot3_ws/install/tbot3_nav_monitor/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tbot3_nav_monitor build --build-base /home/cheriet/tbot3_ws/build/tbot3_nav_monitor/build install --record /home/cheriet/tbot3_ws/build/tbot3_nav_monitor/install.log --single-version-externally-managed install_data
